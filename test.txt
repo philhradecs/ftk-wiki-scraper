@@ -1,0 +1,89 @@
+
+
+Weapons - Blades - Awareness
+
+BaelynsEmbrace crop
+Baelyn's Embrace	Blade	Awareness	Physical	+5% Crit Chance
++8 Speed	Stab	Pierce2	13 dmg	Ignore Armor		Rare
+Shadow Blades	AoE3	7 dmg		-10% acc	*Lore Store
+Unlock
+
+
+Weapons - Blades - Intelligence
+
+ChaosBlade crop
+Chaos Blade	Magic Blade	Intelligence	Physical	+50% Damage Against Spirits	Lunge	Single4	27 dmg			Rare
+Cleave	Single5	41 dmg		-25% acc
+EtherealDagger crop
+Ethereal Dagger	Magic Blade	Intelligence	Physical	+5% Crit Chance
++50% Damage Against Spirits
++5 Speed	Stab	Pierce2	11 dmg	Ignore Armor		Rare
+Swordspell crop
+Swordspell	Magic Blade	Intelligence	Physical	+50% Damage Against Spirits	Lunge	Single3	20 dmg			Rare
+Precision Stab	Pierce3	20 dmg	Ignore Armor	-10% acc
+Slash II	Single3	20 dmg	Bleed	-10% acc
+
+
+Weapons - Blades - Speed
+
+GoblinKnife crop
+Goblin Knife	Blade	Speed	Physical	+5% Crit Chance
++8 Speed
+Elite Flee	Stab	Pierce1	11 dmg	Ignore Armor		Uncommon
+
+
+Weapons - Blades - Strength
+
+AncientBlade crop
+Ancient Blade	BladeBreakable	Strength	Physical	+5% Crit Chance
+Freeze Immunity	Strike	Single1	28 dmg			Artifact
+Flaming Swing	Splash2	42/21 dmg		-30% acc
+Flaming Smite	Splash3	63/32 dmg	Ignite	-60% acc
+Armor Up	1	Target Party	Armor Up	-5% acc
+Bokken crop
+Bokken	BladeTwo-Handed	Strength	Physical		Strike	Single3	8 dmg			Common
+Restore	2	Target Friendly	Cure		*Monk Starter Weapon
+CursedLongsword crop
+Cursed Longsword	BladeBreakableUnfocusable	Strength	Physical	-25 Luck	Strike	Single3	20 dmg			Artifact
+Blood Lust	Single3	20 dmg	Life Drain	-5% acc
+Soul Slice	Splash5	16/8 dmg	Life Drain	
+SharpenedStick crop
+Sharpened Stick	BladeBreakable	Strength	Physical		Stab	Single2	6 dmg			Common
+*Hobo Starter Weapon
+Vardemoder crop
+Vardemoder	BladeTwo-Handed	Strength	Physical	+7 Vitality	Blood Lust	Single4	28 dmg	Life Drain		Rare
+Cutting Swipe II	Splash4	14/7 dmg	Bleed		*Lore Store
+Unlock
+
+
+Weapons - Blades - Talent
+
+Cutlass crop
+Cutlass	Blade	Talent	Physical	+5 Evasion
++5 Speed
+Counter Attack	Stab	Single3	22 dmg			Uncommon
+Precision Stab	Pierce3	22 dmg	Ignore Armor	-10% acc
+Riposte	4	Target Self	Reflect	-10% acc
+Katana crop
+Katana	Blade	Talent	Physical		Lunge	Single3	25 dmg			Uncommon
+Slash III	Single3	25 dmg	Bleed	-10% acc
+Riposte	4	Target Self	Reflect	-10% acc
+Rapier crop
+Rapier	Blade	Talent	Physical	+5 Evasion
++15% Crit Chance
++25% Damage Against Armored	Lunge	Single3	19 dmg			Uncommon
+Precision Stab	Pierce3	19 dmg	Ignore Armor	-10% acc
+Riposte	4	Target Self	Reflect	-10% acc
+
+
+Weapons - Blades - Vitality
+
+RustyKnife crop
+Rusty Knife	Blade	Vitality	Physical	+5% Crit Chance
++7 Speed	Stab	Pierce1	9 dmg	Ignore Armor		Common
+SturdyDagger crop
+Sturdy Dagger	Blade	Vitality	Physical	+15% Crit Chance
++10 Speed	Stab	Pierce1	15 dmg	Ignore Armor		Common
+SturdyKnife crop
+Sturdy Knife	Blade	Vitality	Physical	+10% Crit Chance
++8 Speed	Stab	Pierce1	12 dmg	Ignore Armor		Common
